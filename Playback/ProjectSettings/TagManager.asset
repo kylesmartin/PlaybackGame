@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - EndPoint
+  - music
+  - Dialogue
+  - Hint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4061957053
+    locked: 0
+  - name: Midlayer
+    uniqueID: 1984119245
+    locked: 0
+  - name: Foreground
+    uniqueID: 3429890915
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FrontOfPlayer
+    uniqueID: 784080081
+    locked: 0
+  - name: UI
+    uniqueID: 1048182885
+    locked: 0

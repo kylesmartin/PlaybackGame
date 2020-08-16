@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{3C3D9D0D-74F2-086B-6F5F-C80DCEF9DA42}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerMovement.cs" Line="133" Column="129" />
+      <File FileName="Assets/Scripts/UpdateAnimator.cs" Line="22" Column="41" />
+      <File FileName="Assets/Scripts/RecordAndPlayback.cs" Line="67" Column="25" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/MenuControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Dialogue.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/DialogueTrigger.cs" Line="23" Column="26" />
+      <File FileName="Assets/Scripts/DialogueAnimator.cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="94c2b43e-9f0c-41ed-8581-e52a29dfa862" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
